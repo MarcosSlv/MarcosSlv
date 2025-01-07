@@ -6,4 +6,4 @@ Sou estudante com experiência em criar aplicações eficientes e escaláveis. A
 **PosterMailer**  
 Descrição breve do projeto: Um sistema capaz de gerar cartazes promocionais e enviar e-mails a partir de planilhas.
 
-📌 Confira o repositório do projeto [aqui]((https://github.com/MarcosSlv/PosterMailer)).
+📌 Confira o repositório do projeto [aqui](https://github.com/MarcosSlv/PosterMailer).
